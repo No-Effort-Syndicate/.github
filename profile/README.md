@@ -5,11 +5,11 @@
 
 ---
 
-## 🧠 What is NoEffort?
+## 🧠 What is #NoEffort?
 
-NoEffort is a philosophy and a movement that embraces AI as a cognitive extension—your second brain. We believe the future belongs to those who collaborate with their tools, offloading mental overhead to focus on what truly matters: creativity, exploration, and impact.
+#NoEffort is a philosophy and a movement that embraces AI as a cognitive extension—your second brain. We believe the future belongs to those who collaborate with their tools, offloading mental overhead to focus on what truly matters: creativity, exploration, and impact.
 
-## ✨ What NoEffort Unlocks
+## ✨ What #NoEffort Unlocks
 
 ### 🧠 Your Second Brain
 Offload thinking loops. Let AI remember, draft, compute, sort, and refine—so you don't have to.
@@ -27,7 +27,7 @@ Let automation handle the boring parts so your mind can explore the weird, the b
 The future belongs to those who collaborate with their tools. Reclaim your energy and aim it toward what truly matters.
 
 **Join the movement:**  
-👉 [NoEffort Community](https://github.com/No-Effort-Syndicate)
+👉 [#NoEffort Community](https://github.com/No-Effort-Syndicate)
 
 ---
 
@@ -61,7 +61,7 @@ The future belongs to those who collaborate with their tools. Reclaim your energ
 
 ## 🎨 Design Philosophy
 
-NoEffort embraces modern web design principles:
+#NoEffort embraces modern web design principles:
 - **Dark, sophisticated aesthetics** with vibrant gradient backgrounds
 - **Glassmorphism** for depth and visual interest
 - **Smooth animations** for engaging user experience
@@ -99,9 +99,8 @@ Join the **No Effort Syndicate** and connect with like-minded individuals who be
 
 <div align="center">
 
-**© 2025 NoEffort. Crafted without sweat.**
+**© 2025 #NoEffort. Crafted without sweat.**
 
 *Live with no effort. Build with intention.*
 
 </div>
-
